@@ -264,9 +264,9 @@ window.esdocSearchIndex = [
     "variable"
   ],
   [
-    "formiojs/src/eventemitter.js~eventemitter",
-    "class/src/EventEmitter.js~EventEmitter.html",
-    "<span>EventEmitter</span> <span class=\"search-result-import-path\">formiojs/src/EventEmitter.js</span>",
+    "formiojs/src/eventemitter.js~events",
+    "class/src/EventEmitter.js~Events.html",
+    "<span>Events</span> <span class=\"search-result-import-path\">formiojs/src/EventEmitter.js</span>",
     "class"
   ],
   [
@@ -1524,15 +1524,15 @@ window.esdocSearchIndex = [
     "file"
   ],
   [
-    "src/eventemitter.js~eventemitter#constructor",
-    "class/src/EventEmitter.js~EventEmitter.html#instance-constructor-constructor",
-    "src/EventEmitter.js~EventEmitter#constructor",
+    "src/eventemitter.js~events#constructor",
+    "class/src/EventEmitter.js~Events.html#instance-constructor-constructor",
+    "src/EventEmitter.js~Events#constructor",
     "method"
   ],
   [
-    "src/eventemitter.js~eventemitter#emit",
-    "class/src/EventEmitter.js~EventEmitter.html#instance-member-emit",
-    "src/EventEmitter.js~EventEmitter#emit",
+    "src/eventemitter.js~events#emit",
+    "class/src/EventEmitter.js~Events.html#instance-member-emit",
+    "src/EventEmitter.js~Events#emit",
     "member"
   ],
   [

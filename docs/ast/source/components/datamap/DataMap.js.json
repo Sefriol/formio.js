@@ -298,10 +298,10 @@
             }
           },
           "extra": {
-            "rawValue": "eventemitter2",
-            "raw": "'eventemitter2'"
+            "rawValue": "eventemitter3",
+            "raw": "'eventemitter3'"
           },
-          "value": "eventemitter2"
+          "value": "eventemitter3"
         }
       },
       {
@@ -17452,7 +17452,7 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "eventemitter2",
+      "value": "eventemitter3",
       "start": 160,
       "end": 175,
       "loc": {
