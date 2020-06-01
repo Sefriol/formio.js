@@ -1,7 +1,7 @@
-import { EventEmitter2 } from 'eventemitter2';
+import { EventEmitter } from 'eventemitter3';
 import * as utils from './utils/utils';
 
-export default class EventEmitter extends EventEmitter2 {
+export default class Events extends EventEmitter {
   constructor(conf = {}) {
     const { loadLimit = 1000, eventsSafeInterval = 300, ...ee2conf } = conf;
     super(ee2conf);

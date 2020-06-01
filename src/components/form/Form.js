@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import Component from '../_classes/component/Component';
-import EventEmitter from 'eventemitter2';
+import EventEmitter from 'eventemitter3';
 import NativePromise from 'native-promise-only';
 import {
   isMongoId,

@@ -1,7 +1,7 @@
 import Component from '../_classes/component/Component';
 import DataGridComponent from '../datagrid/DataGrid';
 import _ from 'lodash';
-import EventEmitter from 'eventemitter2';
+import EventEmitter from 'eventemitter3';
 import { uniqueKey } from '../../utils/utils';
 
 export default class DataMapComponent extends DataGridComponent {
