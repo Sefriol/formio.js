@@ -19,6 +19,7 @@
     "lint"
   ],
   "scripts": {
+    "prepare": "npm run build",
     "build": "esdoc;gulp build",
     "transpile": "babel ./src/ --out-dir ./lib/",
     "templates": "gulp templates",
